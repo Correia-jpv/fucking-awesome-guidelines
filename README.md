@@ -339,7 +339,7 @@ Programming style, best practices, and coding conventions.
 
 ### Other
 
-- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don't let your friends dump git logs into CHANGELOGs™.
+- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Guidelines for writing human-readable project changelogs.
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects.
 - [Semantic Versioning](http://semver.org)
 - [Indent style](https://en.wikipedia.org/wiki/Indentation_style)
