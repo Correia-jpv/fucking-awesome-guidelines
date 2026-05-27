@@ -53,7 +53,6 @@ Programming style, best practices, and coding conventions.
 
 - [Style Guide](http://lisp-lang.org/style-guide/)
 - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
-- [Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html)
 
 ### D
 
@@ -91,7 +90,6 @@ Programming style, best practices, and coding conventions.
 
 ### Fortran
 
-- [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
 - [Fortran Best Practices](https://fortran-lang.org/en/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
 
 ### Go
@@ -208,7 +206,6 @@ Programming style, best practices, and coding conventions.
 ### Rust
 
 - [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
-- [Rust Guidelines](http://aturon.github.io)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
@@ -372,7 +369,6 @@ Programming style, best practices, and coding conventions.
 - [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
 - [Laravel Pint](https://laravel.com/docs/11.x/pint) - An opinionated PHP code style fixer for minimalists.
-- [North](http://pointnorth.io) - Design and development standards to align and guide your project.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
@@ -382,8 +378,6 @@ Programming style, best practices, and coding conventions.
 ## Contributors
 
 We welcome contributions! Please take a moment to review our [contribution guidelines](contributing.md) before getting started.
-
-![Alt](https://repobeats.axiom.co/api/embed/57c7dc64df55706884092f3dc88a198c7daeae04.svg 'Repobeats analytics image')
 
 ### Code Contributors
 
