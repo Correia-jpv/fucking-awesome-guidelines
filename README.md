@@ -82,7 +82,7 @@ Programming style, best practices, and coding conventions.
 
 ### Erlang
 
-- [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+- [Secure Coding Guidelines](https://www.erlang.org/doc/system/secure_coding.html) - Writing secure Erlang code, describing common pitfalls and weaknesses best avoided.
 - [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ### F#
