@@ -4,7 +4,7 @@
 
 # Awesome Guidelines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A set of guidelines for a specific programming language that provides recommendations on programming style, best practices, and methods for various aspects of writing programs in that language.
+Programming style, best practices, and coding conventions.
 
 ## Contents
 
