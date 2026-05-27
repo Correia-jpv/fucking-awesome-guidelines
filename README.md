@@ -111,7 +111,7 @@ Programming style, best practices, and coding conventions.
 
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
-- [Java Programming Style Guide](http://javaranch.com/style.jsp)
+- [Java Programming Style Guide](https://coderanch.com/wiki/718799/Style)
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers.
 
 ### JavaScript
