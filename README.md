@@ -1,13 +1,6 @@
 # Awesome Guidelines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<p align="center">
-  <a href="https://github.com/Kristories/awesome-guidelines">
-    <img alt="Awesome Guidelines" src="https://repository-images.githubusercontent.com/97054975/e4621f95-3b09-48d7-85e4-244cdbd98bba"/>
-  </a>
-</p>
-
-
-A set of guidelines for a specific programming language that provides recommendations on programming style, best practices, and methods for various aspects of writing programs in that language.
+Programming style, best practices, and coding conventions.
 
 ## Contents
 
@@ -53,9 +46,8 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ### Common Lisp
 
-- [Style Guide](http://lisp-lang.org/style-guide/) - Style guidance for Common Lisp code.
-- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) - Style guide for writing Common Lisp programs.
-- [Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html) - Community recommendations for Common Lisp style.
+- [Style Guide](http://lisp-lang.org/style-guide/)
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
 ### D
 
@@ -84,8 +76,8 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ### Erlang
 
-- [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml) - Guidelines and conventions for Erlang programming.
-- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines) - Community Erlang coding guidelines.
+- [Secure Coding Guidelines](https://www.erlang.org/doc/system/secure_coding.html) - Writing secure Erlang code, describing common pitfalls and weaknesses best avoided.
+- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ### F#
 
@@ -93,7 +85,6 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ### Fortran
 
-- [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
 - [Fortran Best Practices](https://fortran-lang.org/en/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
 
 ### Go
@@ -115,7 +106,7 @@ A set of guidelines for a specific programming language that provides recommenda
 
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) - Historical Java coding conventions.
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
-- [Java Programming Style Guide](http://javaranch.com/style.jsp) - Style recommendations for Java programming.
+- [Java Programming Style Guide](https://coderanch.com/wiki/718799/Style)
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers.
 
 ### JavaScript
@@ -124,10 +115,10 @@ A set of guidelines for a specific programming language that provides recommenda
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
-- [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
-- [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
-- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-- [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
+- [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/) - JavaScript style rules for open-source contributors.
+- [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/) - Roundup of JavaScript style guides and formatting tools.
+- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp) - General JavaScript coding conventions and best practices.
+- [Code Conventions for the JavaScript](https://www.crockford.com/code.html) - A set of coding conventions and rules for use in JavaScript programming.
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 - [Mozilla Coding Style Guide for JavaScript](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
 
@@ -209,9 +200,8 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ### Rust
 
-- [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) - Style guidelines for the Rust language.
-- [Rust Guidelines](http://aturon.github.io) - Practices and guidance for writing Rust code.
-- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+- [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
 
@@ -231,7 +221,7 @@ A set of guidelines for a specific programming language that provides recommenda
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
 - [Swift style guide](https://github.com/kodecocodes/swift-style-guide) - Community Swift style guide.
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
-- [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
+- [Metova's Swift style guide](https://github.com/metova/swift-style-guide) - Swift style guide for Xcode (archived, deprecated 2022).
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
 ### TypeScript
@@ -298,11 +288,11 @@ A set of guidelines for a specific programming language that provides recommenda
 - [HTML + CSS Code Guide](http://codeguide.co) - Standards for flexible, durable, and sustainable HTML and CSS.
 - [U.S. Web Design Standards](https://designsystem.digital.gov/) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
-- [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed) - Style guidelines for writing LESS.
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) - HTML and CSS conventions and best practices.
-- [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
-- [Yelp Styleguide](https://www.yelp.com/styleguide)
-- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Guide to designing for screen size, platform, and orientation.
+- [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.  
 ### GNU
@@ -344,12 +334,12 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ### Other
 
-- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don't let your friends dump Git logs into CHANGELOGs™.
+- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Guidelines for writing human-readable project changelogs.
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects.
-- [Semantic Versioning](http://semver.org) - Versioning scheme for managing releases.
-- [Indent style](https://en.wikipedia.org/wiki/Indentation_style) - Overview of indentation styles in programming.
-- [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
-- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+- [Semantic Versioning](http://semver.org)
+- [Indent style](https://en.wikipedia.org/wiki/Indentation_style)
+- [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - Secure coding guidelines for web applications.
+- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) - Official Robot Framework user guide.
 - [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards)
 
 ## Frameworks
@@ -368,16 +358,15 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ## Tools
 
+- [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
-- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from git commits.
 - [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
 - [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
 - [Laravel Pint](https://laravel.com/docs/11.x/pint) - An opinionated PHP code style fixer for minimalists.
-- [North](http://pointnorth.io) - Design and development standards to align and guide your project.
-- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [semantic-release](https://github.com/semantic-release/semantic-release)
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Automated versioning and publishing from commits.
 - [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.
-- [Agents.md](https://agents.md) - A simple, open format for guiding coding agents
