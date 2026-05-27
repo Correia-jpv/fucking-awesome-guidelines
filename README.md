@@ -363,6 +363,7 @@ Programming style, best practices, and coding conventions.
 
 ## Tools
 
+- [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from git commits.
 - [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
