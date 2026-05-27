@@ -122,10 +122,10 @@ Programming style, best practices, and coding conventions.
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
-- [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
-- [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
-- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-- [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
+- [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/) - JavaScript style rules for open-source contributors.
+- [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/) - Roundup of JavaScript style guides and formatting tools.
+- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp) - General JavaScript coding conventions and best practices.
+- [Code Conventions for the JavaScript](https://www.crockford.com/code.html) - A set of coding conventions and rules for use in JavaScript programming.
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 - [Mozilla Coding Style Guide for JavaScript](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
 
@@ -209,7 +209,7 @@ Programming style, best practices, and coding conventions.
 
 - [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
 - [Rust Guidelines](http://aturon.github.io)
-- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
 
@@ -229,7 +229,7 @@ Programming style, best practices, and coding conventions.
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
 - [Swift style guide](https://github.com/kodecocodes/swift-style-guide)
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
-- [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
+- [Metova's Swift style guide](https://github.com/metova/swift-style-guide) - Swift style guide for Xcode (archived, deprecated 2022).
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
 ### TypeScript
@@ -298,9 +298,9 @@ Programming style, best practices, and coding conventions.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
 - [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-- [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
-- [Yelp Styleguide](https://www.yelp.com/styleguide)
-- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Guide to designing for screen size, platform, and orientation.
+- [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
 
 ### GNU
@@ -346,8 +346,8 @@ Programming style, best practices, and coding conventions.
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects.
 - [Semantic Versioning](http://semver.org)
 - [Indent style](https://en.wikipedia.org/wiki/Indentation_style)
-- [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
-- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+- [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - Secure coding guidelines for web applications.
+- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) - Official Robot Framework user guide.
 - [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards)
 
 ## Frameworks
@@ -367,7 +367,7 @@ Programming style, best practices, and coding conventions.
 ## Tools
 
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
-- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from git commits.
 - [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
 - [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
@@ -376,7 +376,7 @@ Programming style, best practices, and coding conventions.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [semantic-release](https://github.com/semantic-release/semantic-release)
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Automated versioning and publishing from commits.
 - [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.
 
 ## Contributors
