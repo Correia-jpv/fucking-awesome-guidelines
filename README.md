@@ -228,8 +228,8 @@ Programming style, best practices, and coding conventions.
 ### TypeScript
 
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) - TypeScript Style Guide used at Google's.
-- [Typescript deep dive - Style Guide](https://basarat.gitbook.io/typescript/styleguide) - An unofficial TypeScript Style Guide.
-- [Typescript Lang - Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html) - Suggestions from Typescript Lang organization.
+- [TypeScript deep dive - Style Guide](https://basarat.gitbook.io/typescript/styleguide) - An unofficial TypeScript Style Guide.
+- [TypeScript Lang - Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html) - Suggestions from TypeScript Lang organization.
 
 ### Visual Basic
 
@@ -361,7 +361,7 @@ Programming style, best practices, and coding conventions.
 
 - [Agents.md](https://agents.md) - A simple, open format for guiding coding agents.
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
-- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from git commits.
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from Git commits.
 - [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
 - [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
