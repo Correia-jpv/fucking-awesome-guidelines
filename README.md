@@ -10,36 +10,35 @@ Programming style, best practices, and coding conventions.
 - [Frameworks](#frameworks)
 - [Content Management System](#content-management-system)
 - [Tools](#tools)
-- [Contributors](#contributors)
 
 ## Programming Languages
 
 ### Brainfuck
 
-- [BF Style Guide](https://codepen.io/renmans/full/JjdJPpW)
+- [BF Style Guide](https://codepen.io/renmans/full/JjdJPpW) - Guidelines for writing and formatting Brainfuck code.
 
 ### C
 
-- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
-- [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
+- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html) - Conventions and best practices for C code.
+- [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style) - Structural and style recommendations for C programs.
 - [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html) - This chapter provides advice on how best to use the C language when writing GNU software.
 
 ### C#
 
-- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
-- [C# Style Guide](https://github.com/kodecocodes/c-sharp-style-guide)
-- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards)
+- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) - Official C# coding style conventions.
+- [C# Style Guide](https://github.com/kodecocodes/c-sharp-style-guide) - Community C# style guide.
+- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards) - Standards and naming conventions for C# code.
 
 ### C++
 
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - C++ coding standards and best practices.
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of tried-and-true guidelines, rules, and best practices about coding in C++.
-- [LLVM C++ Coding Standards](https://llvm.org/docs/CodingStandards.html)
-- [Mozilla C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html)
-- [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md)
-- [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/)
-- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/api/citations/20080039927/downloads/20080039927.pdf)
-- [OceanBase C++ Coding Standards](https://oceanbase.github.io/oceanbase/coding_standard.html)
+- [LLVM C++ Coding Standards](https://llvm.org/docs/CodingStandards.html) - Coding standards for the LLVM project.
+- [Mozilla C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html) - C++ coding style guidelines for Mozilla codebases.
+- [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md) - C++ style guide for the Chromium project.
+- [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/) - C++ code style guidelines for WebKit.
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/api/citations/20080039927/downloads/20080039927.pdf) - C++ coding standards for safety-critical systems.
+- [OceanBase C++ Coding Standards](https://oceanbase.github.io/oceanbase/coding_standard.html) - C++ coding standards for OceanBase.
 
 ### Clojure
 
@@ -56,24 +55,24 @@ Programming style, best practices, and coding conventions.
 
 ### Dart
 
-- [Effective Dart](https://dart.dev/effective-dart)
+- [Effective Dart](https://dart.dev/effective-dart) - Recommendations for consistent, idiomatic Dart code.
 
 ### Delphi
 
-- [Delphi's Object Pascal Style Guide](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi%E2%80%99s_Object_Pascal_Style_Guide)
+- [Delphi's Object Pascal Style Guide](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi%E2%80%99s_Object_Pascal_Style_Guide) - Object Pascal coding style guidelines.
 
 ### Elixir
 
-- [Elixir Styleguide](https://github.com/christopheradams/elixir_style_guide)
+- [Elixir Styleguide](https://github.com/christopheradams/elixir_style_guide) - Community Elixir coding style guide.
 
 ### Elm
 
-- [Elm style guide](http://elm-lang.org/docs/style-guide)
+- [Elm style guide](http://elm-lang.org/docs/style-guide) - Style suggestions and conventions for Elm.
 
 ### Emacs Lisp
 
-- [Elisp Guide](https://github.com/chrisdone/elisp-guide)
-- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+- [Elisp Guide](https://github.com/chrisdone/elisp-guide) - Guide to writing Emacs Lisp.
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide) - Community style guide for Emacs Lisp.
 
 ### Erlang
 
@@ -82,7 +81,7 @@ Programming style, best practices, and coding conventions.
 
 ### F#
 
-- [The F# Component Design Guidelines](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/component-design-guidelines)
+- [The F# Component Design Guidelines](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/component-design-guidelines) - Official design and style guidelines for F#.
 
 ### Fortran
 
@@ -90,22 +89,22 @@ Programming style, best practices, and coding conventions.
 
 ### Go
 
-- [Effective Go](https://go.dev/doc/effective_go)
+- [Effective Go](https://go.dev/doc/effective_go) - Idioms and best practices for Go.
 - [Go Standard Project Layout](https://github.com/golang-standards/project-layout) - Basic layout for Go applications.
 - [Google Go Style Guide](https://google.github.io/styleguide/go) - Google's coding standards for source code in Go.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Patterns and conventions used in Go code at Uber.
 
 ### Groovy
 
-- [Apache Groovy style guide](http://groovy-lang.org/style-guide.html)
+- [Apache Groovy style guide](http://groovy-lang.org/style-guide.html) - Style guide for writing idiomatic Groovy code.
 
 ### Haskell
 
-- [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines) - Best practices for Haskell programming.
 
 ### Java
 
-- [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+- [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) - Historical Java coding conventions.
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
 - [Java Programming Style Guide](https://coderanch.com/wiki/718799/Style)
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers.
@@ -125,52 +124,52 @@ Programming style, best practices, and coding conventions.
 
 ### JSON
 
-- [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+- [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml) - Recommendations for JSON formatting and usage.
 
 ### Julia
 
-- [Blue Style](https://github.com/JuliaDiff/BlueStyle)
+- [Blue Style](https://github.com/JuliaDiff/BlueStyle) - Community style guide for Julia packages.
 
 ### Kotlin
 
-- [Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html)
+- [Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html) - Official Kotlin coding conventions.
 
 ### Lua
 
-- [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
+- [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide) - Community Lua coding style guide.
 
 ### Markdown
 
 - [Google Markdown Style Guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) - Style guide for Google-originated projects using Markdown.
-- [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
+- [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - Practical guidelines for writing readable Markdown.
 - [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
 
 ### .NET
 
-- [.NET Standard](https://github.com/dotnet/standard)
-- [.NET Secure Coding Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
-- [.NET Naming Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
+- [.NET Standard](https://github.com/dotnet/standard) - Formal specification of .NET APIs that are available across .NET implementations.
+- [.NET Secure Coding Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines) - Guidance for writing secure .NET code.
+- [.NET Naming Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Naming conventions for .NET libraries.
 
 ### Nim
 
-- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html) - Style conventions and RFC for Nim code.
 
 ### Objective-C
 
 - [Objective-C Style guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
-- [Google Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
+- [Google Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md) - Objective-C coding standards and conventions.
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
 
 ### Pascal
 
-- [Coding style](http://wiki.freepascal.org/Coding_style)
+- [Coding style](http://wiki.freepascal.org/Coding_style) - Style recommendations for Free Pascal.
 - [GNU Pascal Coding Standards](https://edoras.sdsu.edu/doc/gpcs-en.html) - GNU Pascal standards used by GNU Pascal project.
 
 ### Perl
 
 - [Perl best practices v4](https://www.slideshare.net/RandalSchwartz/perl-best-practices-v4) - Slides by Randal Schwartz, based on the book by Damian Conway.
 - [Perl Elements to Avoid](http://perl-begin.org/tutorials/bad-elements/) - A list of unrecommended practices, and what to do instead.
-- [perlstyle](https://perldoc.perl.org/perlstyle)
+- [perlstyle](https://perldoc.perl.org/perlstyle) - Perl style guidelines.
 
 ### PHP
 
@@ -180,18 +179,18 @@ Programming style, best practices, and coding conventions.
 
 ### Python
 
-- [Style Guide for Python Code](https://peps.python.org/pep-0008/)
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Style Guide for Python Code](https://peps.python.org/pep-0008/) - Official Python style guide (PEP 8).
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) - Python coding standards.
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
 
 ### R
 
-- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
-- [The tidyverse style guide](http://style.tidyverse.org)
+- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html) - R style conventions.
+- [The tidyverse style guide](http://style.tidyverse.org) - Style guide for R code in the tidyverse.
 
 ### Racket
 
-- [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
+- [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html) - Style guidance for Racket programs.
 
 ### Ruby
 
@@ -206,21 +205,21 @@ Programming style, best practices, and coding conventions.
 
 ### Scala
 
-- [Effective Scala](https://twitter.github.io/effectivescala/)
-- [Scala Style Guide](http://docs.scala-lang.org/style/)
+- [Effective Scala](https://twitter.github.io/effectivescala/) - Best practices and patterns for Scala.
+- [Scala Style Guide](http://docs.scala-lang.org/style/) - Official style guide for Scala code.
 - [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide.
-- [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - Recommendations and patterns for Scala development.
 
 ### Solidity
 
-- [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
-- [Solcurity Standard](https://github.com/transmissions11/solcurity)
+- [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html) - Style guidelines for Solidity smart contracts.
+- [Solcurity Standard](https://github.com/transmissions11/solcurity) - Security checklist and guidelines for Solidity smart contracts.
 
 ### Swift
 
-- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - API design principles for Swift.
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
-- [Swift style guide](https://github.com/kodecocodes/swift-style-guide)
+- [Swift style guide](https://github.com/kodecocodes/swift-style-guide) - Community Swift style guide.
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide) - Swift style guide for Xcode (archived, deprecated 2022).
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
@@ -233,23 +232,23 @@ Programming style, best practices, and coding conventions.
 
 ### Visual Basic
 
-- [Visual Basic Concepts](<https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx>)
-- [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
+- [Visual Basic Concepts](<https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx>) - Concepts and coding practices for classic Visual Basic.
+- [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards) - Coding standards for Visual Basic projects.
 
 ### XML
 
-- [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html)
+- [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html) - XML formatting and style guidance.
 
 ## Development Environment
 
 ### Shell
 
-- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Shell script style guide.
 
 ### Git
 
-- [Git Style Guide](https://github.com/agis/git-style-guide)
-- [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines)
+- [Git Style Guide](https://github.com/agis/git-style-guide) - Git usage and style recommendations.
+- [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) - Coding guidelines used in the Git project.
 
 ### PowerShell
 
@@ -264,7 +263,7 @@ Programming style, best practices, and coding conventions.
 
 ### Apache
 
-- [Apache Developers' C Language Style Guide](http://httpd.apache.org/dev/styleguide.html)
+- [Apache Developers' C Language Style Guide](http://httpd.apache.org/dev/styleguide.html) - C language style guidelines for the Apache HTTP Server project.
 
 ### API
 
@@ -276,7 +275,7 @@ Programming style, best practices, and coding conventions.
 
 ### Arduino
 
-- [Arduino style guide](https://www.arduino.cc/)
+- [Arduino style guide](https://www.arduino.cc/) - General coding style guidance for Arduino.
 - [API Style Guide for Arduino](https://docs.arduino.cc/learn/contributions/arduino-library-style-guide/)
 
 ### Frontend Development
@@ -295,26 +294,26 @@ Programming style, best practices, and coding conventions.
 - [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
-
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.  
 ### GNU
 
-- [GNU coding standards](https://www.gnu.org/prep/standards/)
+- [GNU coding standards](https://www.gnu.org/prep/standards/) - Coding and documentation standards for GNU software.
 
 ### Java
 
-- [JavaEE Specification](https://github.com/javaee/javaee-spec)
+- [JavaEE Specification](https://github.com/javaee/javaee-spec) - Official specification for Java EE.
 
 ### Linux
 
-- [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
+- [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html) - Coding style for the Linux kernel.
 
 ### Mailchimp
 
-- [Mailchimp Content Style Guide](https://styleguide.mailchimp.com)
+- [Mailchimp Content Style Guide](https://styleguide.mailchimp.com) - Content style guidelines for Mailchimp.
 
 ### Mozilla
 
-- [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide)
+- [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide) - Coding style guidance for Mozilla projects.
 
 ### Google
 
@@ -322,16 +321,16 @@ Programming style, best practices, and coding conventions.
 
 ### Node.js
 
-- [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
+- [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Engineering guidelines for building Node.js apps.
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your Node.js / JavaScript code.
 
 ### MongoDB
 
-- [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide)
+- [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide) - Style guidelines for MongoDB usage.
 
 ### SQL
 
-- [SQL Style Guide](https://www.sqlstyle.guide)
+- [SQL Style Guide](https://www.sqlstyle.guide) - SQL style and formatting guidelines.
 
 ### Other
 
@@ -371,14 +370,3 @@ Programming style, best practices, and coding conventions.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Automated versioning and publishing from commits.
 - [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.
-
-## Contributors
-
-We welcome contributions! Please take a moment to review our [contribution guidelines](contributing.md) before getting started.
-
-### Code Contributors
-
-This project thrives thanks to the efforts of all contributors.
-<a href="https://github.com/Kristories/awesome-guidelines/graphs/contributors"><img src="https://opencollective.com/awesome-guidelines/contributors.svg?width=890&button=false" /></a>
-
-[Contribute on opencollective.com](https://opencollective.com/awesome-guidelines/contribute).
